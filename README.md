@@ -1,13 +1,6 @@
 # Image-Caption-Editor
-
-
 ![image](https://github.com/Capybara-AI/Image-Caption-Editor/assets/11761529/b764fa1a-2878-4fd0-b74b-af93cb51afa5)
 
-
-
-# Image Caption-Editor
-
-![image-caption](https://github.com/Capybara-AI/Caption-Editor/assets/11761529/a96a7f70-9550-4e53-ba9f-d7b17fc244f5)
 
 ## Introduction
 The **Image Caption Editor** is a specialized annotation tool designed for AI engineers and data scientists engaged in multimodal model training. It facilitates the editing and refinement of image captions, enhancing the accuracy and relevance of automated text annotations associated with images.
