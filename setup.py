@@ -19,5 +19,5 @@ setup(
     description='An interactive tool for editing image captions using Streamlit.',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/Capybara-AI/Image-Caption-Editor',  # Link to your project's GitHub repo
+    url='https://github.com/Capybara-AI/Image-Caption-Editor',
 )
