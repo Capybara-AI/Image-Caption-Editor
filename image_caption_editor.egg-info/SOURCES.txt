@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+image_caption_editor.egg-info/PKG-INFO
+image_caption_editor.egg-info/SOURCES.txt
+image_caption_editor.egg-info/dependency_links.txt
+image_caption_editor.egg-info/entry_points.txt
+image_caption_editor.egg-info/requires.txt
+image_caption_editor.egg-info/top_level.txt

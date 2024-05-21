@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: image-caption-editor
+Version: 0.1.0
+Summary: An interactive tool for editing image captions using Streamlit.
+Home-page: https://github.com/Capybara-AI/Image-Caption-Editor
+Author: Casa AI
+Author-email: siju@delvelabs.ai
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: streamlit
+Requires-Dist: pillow

@@ -1,0 +1,2 @@
+[console_scripts]
+image-caption-editor = image_caption_editor.run:run
