@@ -34,6 +34,9 @@ Configuration
 Contributing
 - We welcome contributions to enhance the application further. Please consider submitting your suggestions and improvements directly via email to the address provided below.
 
+
+![crop_ICE](https://github.com/Capybara-AI/Image-Caption-Editor/assets/11761529/f3057522-7e5e-432e-9ba5-e4ea797265b2)
+
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 

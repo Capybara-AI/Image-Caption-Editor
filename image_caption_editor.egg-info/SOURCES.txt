@@ -1,6 +1,9 @@
 LICENSE
 README.md
 setup.py
+image_caption_editor/__init__.py
+image_caption_editor/app.py
+image_caption_editor/run.py
 image_caption_editor.egg-info/PKG-INFO
 image_caption_editor.egg-info/SOURCES.txt
 image_caption_editor.egg-info/dependency_links.txt
